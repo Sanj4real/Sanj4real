@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjay. Nice to meet you.
 - 👀 I like to code things from scratch, and enjoy bringing ideas to life in the browser.
-- 🌱 I’m currently learning React
+- 🌱 I’m a React Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
